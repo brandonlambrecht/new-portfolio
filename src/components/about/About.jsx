@@ -13,7 +13,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about-img" />
         <div className="about-data">
           <Info />
-          <p className="about-description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio ipsa totam quisquam! Dolorem quam illo rerum voluptatum reiciendis accusamus veniam inventore? Ad expedita voluptate reprehenderit eos dolore corrupti qui reiciendis dicta ipsam, accusantium ab voluptatem cupiditate. Voluptatum vero maxime eum possimus quis eveniet voluptates pariatur sint harum quas repellat provident obcaecati nostrum sed vitae totam laborum ad placeat, iure culpa. Nam at velit omnis sint eius laudantium rem excepturi eum mollitia minus, accusamus obcaecati incidunt? Alias dicta veritatis tenetur nemo.</p>
+          <p className="about-description">My name is Brandon Lambrecht, a junior web developer originally from Montana, now living in Nashville, TN. I am seeking an opportunity to leverage my skills and passion for creating user-friendly, aesthetically pleasing web applications. With a strong interest in learning new languages and frameworks, I am dedicated to continuously improving my development expertise. I hold a bachelor's degree in Marketing and have experience in sales, finance, and account management, which has honed my analytical and communication skills. Beyond coding, I enjoy fitness, hiking, and sports.</p>
           <a download="" href={CV} className="button button--flex">
             Download CV
           </a>

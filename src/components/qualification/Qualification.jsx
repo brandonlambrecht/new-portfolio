@@ -45,7 +45,7 @@ const Qualification = () => {
                 <h3 className="qual-title">Marketing</h3>
                 <span className="qual-subtitle">University of Exeter</span>
                 <div className="qual-calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - Present
+                  <i className="uil uil-calendar-alt"></i> 2012-2013
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@ const Qualification = () => {
                 <h3 className="qual-title">Full Stack Web Development</h3>
                 <span className="qual-subtitle">Vanderbilt University</span>
                 <div className="qual-calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - Present
+                  <i className="uil uil-calendar-alt"></i> 2023-2024
                 </div>
               </div>
               <div>
@@ -70,7 +70,7 @@ const Qualification = () => {
                 <h3 className="qual-title">Finance Manger</h3>
                 <span className="qual-subtitle">Jesco Marine</span>
                 <div className="qual-calender">
-                  <i className="uil uil-calendar-alt"></i> 2011-2015
+                  <i className="uil uil-calendar-alt"></i> 2022-2023
                 </div>
               </div>
               <div>
@@ -89,7 +89,7 @@ const Qualification = () => {
                 <h3 className="qual-title">Account Manager</h3>
                 <span className="qual-subtitle">BMO</span>
                 <div className="qual-calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - Present
+                  <i className="uil uil-calendar-alt"></i> 2019-2022
                 </div>
               </div>
             </div>
@@ -99,7 +99,7 @@ const Qualification = () => {
                 <h3 className="qual-title">Brandon Ambassador</h3>
                 <span className="qual-subtitle">Solidcore</span>
                 <div className="qual-calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - Present
+                  <i className="uil uil-calendar-alt"></i> 2020-Present
                 </div>
               </div>
               <div>
