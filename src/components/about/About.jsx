@@ -1,7 +1,7 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/about.jpg';
-import CV from '../../assets/lambrecht-dev-cv.pdf';
+import CV from '../../assets/lambrecht-cv-2025.pdf';
 import Info from './Info';
 
 const About = () => {
@@ -13,7 +13,7 @@ const About = () => {
         <img src={AboutImg} alt='' className='about-img' />
         <div className='about-data'>
           <Info />
-          <p className='about-description'>My name is Brandon Lambrecht, a junior web developer originally from Montana, now living in Nashville, TN. I am seeking an opportunity to leverage my skills and passion for creating user-friendly, aesthetically pleasing web applications. With a strong interest in learning new languages and frameworks, I am dedicated to continuously improving my development expertise. I hold a bachelor's degree in Marketing and have experience in sales, finance, and account management, which has honed my analytical and communication skills. Beyond coding, I enjoy fitness, hiking, and sports.</p>
+          <p className='about-description'>My name is Brandon Lambrecht, a web designer with a background in marketing, sales, and account management. Originally from Montana and now based in Nashville, TN, I am passionate about crafting user-friendly, visually appealing web applications. With a strong drive to expand my expertise in new technologies and frameworks, I am committed to continuous learning and growth. I hold a bachelor's degree in Marketing, and my experience in sales, finance, and account management has sharpened my analytical and communication skills. Outside of work, I enjoy fitness, hiking, and sports.</p>
           <a download='' href={CV} className='button button--flex'>
             Download CV
           </a>
